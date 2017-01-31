@@ -1,0 +1,2 @@
+# GitSecrets
+Revealing git secrets
